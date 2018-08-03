@@ -1,0 +1,52 @@
+BSD 3-Clause License
+
+Copyright (c) 2018, **JsOzzius**
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+* Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+
+* Neither the name of the copyright holder nor the names of its
+  contributors may be used to endorse or promote products derived from
+  this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+###########################Import from Python.org license ###########################
+**Definition and the Four Freedoms**
+Freedom 0: The freedom to run the program for any purpose.
+Freedom 1: The freedom to study how the program works, and change it to make it do what you wish.
+Freedom 2: The freedom to redistribute and make copies so you can help your neighbor.
+Freedom 3: The freedom to improve the program, and release your improvements (and modified versions in general) to the public, so that 
+the whole community benefits.
+
+**N.B:** Access to source code is a necessary but insufficient condition, according to both the Free Software and Open Source definitions.
+
+The Python Software Foundation License (PSFL) is a BSD-style, permissive free software license which is compatible with the GNU General 
+Public License (GPL).[1] Its primary use is for distribution of the Python project software. Unlike the GPL the Python license is not a 
+copyleft license, and allows modified versions to be distributed without source code. The PSFL is listed as approved on both FSF's 
+approved licenses list,[1] and OSI's approved licenses list.
+
+
+Earlier versions of Python were under the Python License, which is incompatible with the GPL. The reason given for this incompatibility 
+by Free Software Foundation was that "this Python license is governed by the laws of the 'State of Virginia', in the USA", and the GPL 
+does not permit this.[2]
+
+The year that Python's creator Guido van Rossum changed the license to fix this incompatibility, he was awarded the Free Software 
+Foundation Award for the Advancement of Free Software.[3]
